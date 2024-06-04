@@ -1,4 +1,4 @@
-# Sign-In with Credential Manager
+# Google Sign-In with Credential Manager
 - Google Sign-In for Android is outdated and no longer supported. To ensure the continued security and usability of your app, migrate to Credential Manager today. Credential Manager supports passkey, password, and federated identity authentication (such as Sign-in with Google), stronger security, and a more consistent user experience.
 # Free to use
 - This project is free to use and open source. Any one can use this code in his/her project.
